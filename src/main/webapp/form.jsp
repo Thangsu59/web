@@ -23,4 +23,4 @@ out.print("니가 쓴 uiPwd : "+uiPwd + "<br>");
 	<button>등록</button>
 </form>
 </body>
-</html>
+</html> 
