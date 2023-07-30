@@ -17,7 +17,7 @@ public class DBCon {
 		} catch (ClassNotFoundException e) {
 			
 			e.printStackTrace();
-		}
+		} 
 		
 	}
 	public static Connection getCon() {
